@@ -1,5 +1,5 @@
 ===========================
-Data Mining - Master Course
+Master Courses
 ===========================
 
-Course taught at Nova IMS, Fall semester of the academic year 2021/2022.
+Course taught at Nova IMS, year 2021/2022.
