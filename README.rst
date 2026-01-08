@@ -1,5 +1,5 @@
 ===========================
-Master’s Courses
+Master Courses
 ===========================
 
 Courses completed as part of the Master’s program in Data Science and Advanced Analytics at Nova IMS, University of Lisbon (2021/2022), with projects hosted on this GitHub:
